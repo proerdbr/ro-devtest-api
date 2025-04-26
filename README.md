@@ -33,7 +33,7 @@ RO.DevTest.Tests — Preparado para testes unitários
 Como Rodar o Projeto
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/proerdbr/ro-devtest-api.git
 
 Abra o projeto no Visual Studio Code ou Visual Studio.
 
